@@ -1,0 +1,20 @@
+a.btn {
+    display: initial;
+    margin: 2px;
+}
+
+img {
+	border-radius: 25px;
+}
+
+img.profile {
+	float: right;
+}
+
+.wid {
+	width: 50%;
+}
+
+label.col-md-12 {
+	padding-left: 0px;
+}
